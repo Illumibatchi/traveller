@@ -1,5 +1,7 @@
 # Proud Mary
 
+![[assets/Proud Mary.jpg]]
+
 ---
 type: ship
 status: active / band ship

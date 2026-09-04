@@ -1,5 +1,7 @@
 # R3D
 
+**PC** — Jessica / Lefty
+
 ---
 type: character
 kind: PC

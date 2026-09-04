@@ -6,6 +6,8 @@ The campaign has completed **Session 001**, a setup / character-creation session
 
 ## At a glance
 
+![[../06 - Ships & Gear/assets/Proud Mary.jpg]]
+
 - Campaign: Thursday Traveller
 - Current tracker: [[Next Session Dashboard|Next Session Tracker]]
 - Current session: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001 - First Thursday Traveller Session]]
@@ -18,9 +20,9 @@ The campaign has completed **Session 001**, a setup / character-creation session
 
 ## Player characters
 
-- [[../02 - Characters/R3D|R3D]] — Jessica/Lefty; singer/front-person; psionic former prisoner; Callisto enemy.
-- [[../02 - Characters/Ritchie Steel|Ritchie Steel]] — Eric; Aslan guitarist; cast-out stage monster / shy actual person; USD member.
-- [[../02 - Characters/The Todd|The Todd]] — Alex/Maz; theremin/electronics; former law-enforcement agent; data jack.
+- **PC** [[../02 - Characters/R3D|R3D]] — Jessica/Lefty; singer/front-person; psionic former prisoner; Callisto enemy.
+- **PC** [[../02 - Characters/Ritchie Steel|Ritchie Steel]] — Eric; Aslan guitarist; cast-out stage monster / shy actual person; USD member.
+- **PC** [[../02 - Characters/The Todd|The Todd]] — Alex/Maz; theremin/electronics; former law-enforcement agent; data jack.
 
 ## Band / crew status
 

@@ -2,9 +2,9 @@
 
 ## Player characters
 
-- [[../02 - Characters/R3D|R3D]] — Jessica/Lefty; singer/front-person; psionic former prisoner; Callisto enemy.
-- [[../02 - Characters/Ritchie Steel|Ritchie Steel]] — Eric; Aslan guitarist; cast-out Aslan stage monster / shy musician; USD member.
-- [[../02 - Characters/The Todd|The Todd]] — Alex/Maz; theremin/electronics; former law-enforcement agent; data jack.
+- **PC** [[../02 - Characters/R3D|R3D]] — Jessica/Lefty; singer/front-person; psionic former prisoner; Callisto enemy.
+- **PC** [[../02 - Characters/Ritchie Steel|Ritchie Steel]] — Eric; Aslan guitarist; cast-out Aslan stage monster / shy musician; USD member.
+- **PC** [[../02 - Characters/The Todd|The Todd]] — Alex/Maz; theremin/electronics; former law-enforcement agent; data jack.
 
 ## Band / crew / entourage
 

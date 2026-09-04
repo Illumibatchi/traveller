@@ -1,5 +1,7 @@
 # Ritchie Steel
 
+**PC** — Eric
+
 ---
 type: character
 kind: PC
