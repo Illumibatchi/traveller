@@ -21,7 +21,7 @@ Pilot. Current notes say the group is probably taking him. Exact ship role/statu
 
 ## Timeline
 
-- **Session 001** — Established as pilot and probably being taken with the band/ship. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Established as pilot and probably being taken with the band/ship.
 
 ## Open questions
 

@@ -19,11 +19,11 @@ Theremin player / electronics person / former law-enforcement agent.
 
 The Todd began as a straight-laced, normal guy doing well in school with a girlfriend and plans to join law enforcement. After his girlfriend turned down his proposal, he got drunk with buddies, raided the evidence locker for drugs, and woke in an auditorium where a child was playing theremin. This opened his soul to what life is about: the theremin. He withdrew his cash, bought a theremin, and left on the next ship.
 
-The Todd arrested [[R3D]] after being paid by [[Callisto]]. His girlfriend may have known/discovered the payoff and moved in with Callisto; this is juicy but should be treated as partly uncertain until confirmed cleanly.
+The Todd arrested [[R3D]] after being paid by [[Callisto]]. His girlfriend may have known/discovered the payoff and moved in with [[02 - Characters/Callisto|Callisto]]; this is juicy but should be treated as partly uncertain until confirmed cleanly.
 
 ## Relationships
 
-- [[R3D]] — The Todd arrested R3D and put her behind bars.
+- [[R3D]] — The Todd arrested [[02 - Characters/R3D|R3D]] and put her behind bars.
 - [[Callisto]] — paid The Todd; also stole/moved in with The Todd’s girlfriend.
 - [[Ritchie Steel]] — The Todd stole Ritchie’s guitar, pawned it, then helped recover it after learning it was sentimental.
 
@@ -42,7 +42,7 @@ The Todd arrested [[R3D]] after being paid by [[Callisto]]. His girlfriend may h
 - Cybernetic implant: data jack.
 - Music package: Profession (Songwriter), Persuade, Carouse.
 - Connection with Ritchie gave Art (Instrument).
-- Connection with R3D gave Athletics.
+- Connection with [[02 - Characters/R3D|R3D]] gave Athletics.
 
 Initial FVTT stat block captured:
 
@@ -64,12 +64,12 @@ Initial FVTT stat block captured:
 
 ## Timeline
 
-- **Session 001** — Character created; identified as Alex/Maz’s PC; name settled as The Todd. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Goes to university, then joins law enforcement as an Agent. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Girlfriend rejects proposal; The Todd raids evidence-locker drugs, has theremin epiphany, buys a theremin, and leaves law enforcement life. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Gains data jack cybernetic implant from mustering-out benefits. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — The Todd is established as the agent who put R3D behind bars, paid by Callisto. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Guitar incident with Ritchie established: theft, pawn, then recovery after learning it was sentimental. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Character created; identified as Alex/Maz’s PC; name settled as The Todd.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Goes to university, then joins law enforcement as an Agent.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Girlfriend rejects proposal; The Todd raids evidence-locker drugs, has theremin epiphany, buys a theremin, and leaves law enforcement life.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Gains data jack cybernetic implant from mustering-out benefits.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — The Todd is established as the agent who put [[02 - Characters/R3D|R3D]] behind bars, paid by Callisto.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Guitar incident with Ritchie established: theft, pawn, then recovery after learning it was sentimental.
 
 ## Quotes / table color
 
@@ -80,6 +80,14 @@ Initial FVTT stat block captured:
 
 - Final character sheet and exact skill levels?
 - What exact cybernetic data jack model/effect?
-- What did The Todd know about Callisto’s setup?
+- What did The Todd know about [[02 - Characters/Callisto|Callisto]]’s setup?
 - Who is the ex-girlfriend, and how much did she know?
-- Does R3D know The Todd was paid?
+- Does [[02 - Characters/R3D|R3D]] know The Todd was paid?
+
+## Session 002 notes
+
+- Todd spent his own savings and his girlfriend's savings to get to Imperial space and survive/practice theremin. By the time he reached [[../03 - Places & Factions/New Moscow|New Moscow]], he was poor enough to steal.
+- Todd was involved in stealing Ritchie's guitar and getting it back to him.
+- On Zuflucht, Todd used Persuade to find the hottest music spots.
+- At the museum, Todd used leadership reflection to move past his “copness” / inherent corruption from being part of the system.
+- During the Larry's brawl, Todd made an appeal to the crowd and offered to buy a round if everyone backed off; it worked.

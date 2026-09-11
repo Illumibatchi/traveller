@@ -28,7 +28,7 @@ The Infinity Suite is the band’s seven-movement concept album/suite — “the
 
 ## How progress works
 
-Known from Session 001:
+Known from [[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]:
 
 - Each movement/section has a number of Effect required to play that section.
 - Playing parts of the suite in shows can lower those numbers.
@@ -52,3 +52,11 @@ See: [[Traveller Quickstart - Session 001]].
 - Full chart text/screenshot for all movements.
 - Whether the listed movement targets change immediately after partial performances or only after special events.
 - How Megastar points interact with final suite performance.
+
+## Session 002 development
+
+- The idea began in a smoke session when someone said they should do something “infinitely big.”
+- [[../02 - Characters/Ritchie Steel|Ritchie Steel]] wants the Infinity Suite to be his magnum opus and guitar masterwork.
+- Meaningful experiences and concerts can reduce the Effect required for movements.
+- The museum visit on [[../03 - Places & Factions/Zuflucht|Zuflucht]] reduced the **Infinity Overture** requirement by 1, recorded as **11/12**.
+- New clue: [[../06 - Ships & Gear/Von Haalans Guitar|Von Haalan's Guitar]] may bring something old/new to the Suite.

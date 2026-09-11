@@ -17,7 +17,7 @@ Their slogan/line:
 
 > “We are legion, each of us standing alone. Disunited we resist the forces of Entropy.”
 
-During Session 001, [[../02 - Characters/Ritchie Steel|Ritchie Steel]] joined or had joined the USD through a political-movement character-creation event. He did not become a leading figure.
+During [[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]], [[../02 - Characters/Ritchie Steel|Ritchie Steel]] joined or had joined the USD through a political-movement character-creation event. He did not become a leading figure.
 
 ## Beliefs
 
@@ -35,11 +35,11 @@ Most outsiders would summarize them as mostly harmless but annoying nutcases: pe
 
 ## Timeline
 
-- **Session 001** — Ritchie’s political-movement event ties him to the USD. He fails to become a leading figure and is summarized at the table as not a cult leader, but a cult member. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Ritchie’s political-movement event ties him to the USD. He fails to become a leading figure and is summarized at the table as not a cult leader, but a cult member.
 
 ## Open questions
 
 - Who is Ritchie’s Ally within the movement?
 - Who is the Enemy in wider society created by this event?
 - How active is Ritchie in the USD now?
-- Do USD ideas connect to psionics, the Infinity Suite, or the larger crisis, or are they just thematically adjacent?
+- Do USD ideas connect to psionics, the [[05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite]], or the larger crisis, or are they just thematically adjacent?

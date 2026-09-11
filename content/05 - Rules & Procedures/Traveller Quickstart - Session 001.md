@@ -72,7 +72,7 @@ Procedure as explained:
 - The previous manager vanished/stole the money.
 - Small rockstar expenses can usually be handwaved through tour funds.
 - Big purchases, mortgages, ship debt, and personal debts still matter.
-- R3D acquired personal debt from psionic community/training and a lawyer during character creation; exact final debt total should be checked on the sheet.
+- [[02 - Characters/R3D|R3D]] acquired about **Cr9,000** in personal debt from psionic community/training and a lawyer during character creation; confirm exact amount against the final sheet if needed.
 
 ## Luck
 
@@ -122,8 +122,8 @@ See also: [[Psionics Quick Reference]].
 | Teleportation | Move through space instantly | +0 |
 
 - Each talent acquisition check after the first has a cumulative DM-1 penalty.
-- R3D learned Teleportation, Telekinesis, Clairvoyance, and Telepathy; she did **not** learn Awareness.
-- One learned psionic talent was raised to level 1; R3D chose Teleportation.
+- [[02 - Characters/R3D|R3D]] learned Teleportation, Telekinesis, Clairvoyance, and Telepathy; she did **not** learn Awareness.
+- One learned psionic talent was raised to level 1; [[02 - Characters/R3D|R3D]] chose Teleportation.
 - Exact final sheet should be checked before relying on all values.
 
 ### Teleportation notes from session
@@ -157,7 +157,7 @@ False Knowledge was described as “X-Files shit” — rumors and forbidden/den
 ## Still needs cleanup
 
 - Full Megastar chart and thresholds.
-- Exact Infinity Suite chart: all movement target numbers and difficulties.
+- Exact [[05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite]] chart: all movement target numbers and difficulties.
 - Final PC character sheets and skill levels.
 - Full ship sheet for Proud Mary.
 - Combat basics, if/when relevant.

@@ -23,3 +23,12 @@
 - [[../06 - Ships & Gear/Ship & Crew Overview|Ship & Crew Overview]]
 - [[../05 - Rules & Procedures/Traveller Quick Reference|Traveller Quick Reference]]
 - [[../05 - Rules & Procedures/Traveller Quickstart - Session 001|Traveller Quickstart - Session 001]]
+
+## Current band
+
+- [[../04 - Lore/Generation Jump|Generation Jump]]
+- [[../06 - Ships & Gear/Proud Mary|Proud Mary]]
+
+## Current session
+
+- [[../01 - Sessions/Session 002 - Zuflucht Arrival and Larrys Brawl|Session 002 - Zuflucht Arrival and Larry's Brawl]]

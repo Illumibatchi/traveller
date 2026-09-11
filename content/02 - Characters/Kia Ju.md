@@ -20,7 +20,7 @@ Bassist. Interested in history and songwriting. Sedate, low-drama, “art is lif
 
 ## Timeline
 
-- **Session 001** — Established as bassist, history/songwriting person, sedate/art-focused, and kept in the band. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Established as bassist, history/songwriting person, sedate/art-focused, and kept in the band.
 
 ## Mechanics note
 
@@ -31,3 +31,9 @@ Multiple generated stat blocks in the log may refer to Kia Ju; confirm final she
 - Correct spelling: Kia Ju / Kaijew?
 - Final stats/sheet if needed?
 - Exact relationship to PCs?
+
+## Session 002 notes
+
+- Played bass extremely well at Larry's.
+- Jumped into the brawl waving his guitar and got punched out by dock workers.
+- Took a major wound.

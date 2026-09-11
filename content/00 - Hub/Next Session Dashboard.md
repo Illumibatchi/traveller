@@ -2,72 +2,59 @@
 
 > Campaign-facing tracker for what matters next at the table. This is for story/status tracking, not referee-side prep.
 
-Updated through: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]
+Updated through: [[../01 - Sessions/Session 002 - Zuflucht Arrival and Larrys Brawl|Session 002]]
 
 ## Where we left off
 
-The Thursday Traveller campaign opened with character creation and a campaign briefing. The PCs created the band’s core player characters, chose which supporting band/crew members stayed, and established the band’s starting problem: **75 million dollars in debt** after the previous manager stole or vanished with the money.
+[[../04 - Lore/Generation Jump|Generation Jump]] finished its first Zuflucht gig at Larry's / the Factory Plaza scene. The music worked; the crowd loved them; the aftermath became a dock-worker brawl. [[../02 - Characters/The Todd|The Todd]] talked the crowd down by offering a round, and the venue boss offered the band **Cr25,000** to rescore _Battleship Potemkin_ (1925) for a live screening.
 
-The band’s ship is the [[../06 - Ships & Gear/Proud Mary|Proud Mary]]. The band name is still homework.
+The band still needs fuel, money, medical cleanup, and a plan for the next gig.
 
 ## Current known situation
 
 - **Current world:** [[../03 - Places & Factions/Zuflucht|Zuflucht]].
-- **Region:** Great Rift / New Islands; isolated, old Earth-enclave feel.
-- **Band debt:** 75 million dollars.
+- **Current city/port:** Vandenzbrugge downport.
+- **Band:** [[../04 - Lore/Generation Jump|Generation Jump]].
+- **Ship:** [[../06 - Ships & Gear/Proud Mary|Proud Mary]], Jump-1, nearly/out of fuel after the long crossing.
+- **Refuel cost:** Cr8,000.
+- **Operating cash:** Cr3.2 million in the safe, but part of the broader debt situation.
+- **Band debt:** 75 million credits, Imperium-based.
 - **Megastar points:** 1.
-- **Band name:** pending homework.
-- **Ship:** [[../06 - Ships & Gear/Proud Mary|Proud Mary]], Jump-1, two-jump fuel, no weapons, stage/speakers/pyro/recording studio.
+- **Current job offer:** Cr25,000 to rescore _Battleship Potemkin_ (1925).
 - **Campaign spine:** learn and perform the seven-movement [[../05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite]], eventually holo-recording the full suite.
+- **Infinity Overture progress:** reduced to **11/12** after the museum experience.
 
 ## Active PCs
 
 | Character | Player | Current notes |
 |---|---|---|
-| [[../02 - Characters/R3D|R3D]] | Jessica / Lefty | Singer/front-person; psionic former prisoner; Callisto enemy; high-PSI talents need final sheet check. |
-| [[../02 - Characters/Ritchie Steel|Ritchie Steel]] | Eric | Aslan guitarist; cast-out stage monster/shy musician; USD member. |
-| [[../02 - Characters/The Todd|The Todd]] | Alex / Maz | Theremin/electronics; former law-enforcement agent; data jack; arrested R3D after Callisto paid him. |
+| [[../02 - Characters/R3D|R3D]] | Jessica | Singer/front-person; psionic former prisoner; [[../02 - Characters/Callisto|Callisto]] enemy; took a major wound/stun in the Larry's brawl. |
+| [[../02 - Characters/Ritchie Steel|Ritchie Steel]] | Eric | Aslan guitarist; wants the Infinity Suite as his magnum opus; chasing [[../06 - Ships & Gear/Von Haalans Guitar|Von Haalan's Guitar]]. |
+| [[../02 - Characters/The Todd|The Todd]] | Alex / Maz | Theremin/electronics; former law-enforcement agent; ended the brawl with a speech and a round of drinks. |
 
 ## Band / crew / entourage
 
 | Person | Role | Status |
 |---|---|---|
-| [[../02 - Characters/Reina|Reina]] | Keyboardist | Kept; nice/stable; hated the two kicked-out members. |
-| [[../02 - Characters/Kia Ju|Kia Ju]] | Bassist | Kept; history/songwriting; sedate, art-is-life, forgets to eat for art. |
-| [[../02 - Characters/Jose Barik|Jose Barik]] | Drummer | Kept; cannot be anywhere on time. |
-| [[../02 - Characters/Dimitry Muam|Dimitry Muam]] | Pilot | Kept/probably kept; exact sheet pending. |
-| [[../02 - Characters/Arkhu Pyro Piette|Arkhu “Pyro” Piette]] | Tech / engineer / pyrotechnics | Kept; jump drives, fusion reactors, pyrotechnics. |
-| [[../02 - Characters/Jonni Siedel|Jonni Siedel]] | Roadie | Kept; joined six months ago; quiet, hardworking, punctual. |
-| [[../02 - Characters/Ezben Schmit|Ezben Schmit]] | Manager / accounting | Kept; fast-talking, enthusiastic, opportunity-leaning. |
+| [[../02 - Characters/Rana|Rana]] | Keyboardist | Kept; fell off stage into angry dock workers. |
+| [[../02 - Characters/Kia Ju|Kia Ju]] | Bassist | Kept; major wound from dock-worker brawl. |
+| [[../02 - Characters/Jose Barik|Jose Barik]] | Drummer | Kept; played well at Larry's. |
+| [[../02 - Characters/Dimitry Muam|Dimitry Muam]] | Pilot | Kept/probably kept; helped in brawl. |
+| [[../02 - Characters/Arkhu Pyro Piette|Arkhu “Pyro” Piette]] | Tech / engineer / pyrotechnics | Kept; fog machine/stage effects. |
+| [[../02 - Characters/Jonni Siedel|Jonni Siedel]] | Roadie | Kept; minor wound in brawl. |
+| [[../02 - Characters/Ezben Schmit|Ezben Schmit]] | Manager / accounting | Kept; schmoozed critics poorly; severe wound in brawl. |
 
-## Rivals / complications
+## Immediate choices for next session
 
-| Person | Current issue |
-|---|---|
-| [[../02 - Characters/Callisto|Callisto]] | R3D enemy; framed R3D for boating-club embezzlement; paid The Todd; tied to The Todd’s girlfriend. |
-| [[../02 - Characters/Rekasen|Rekasen]] | Attention-seeking vocalist; thought of as lead singer; told to scram and forms a rival band. |
-| [[../02 - Characters/Izan Guukis|Izan Guukis]] | Guitar player; shy/stable listener; joins rival band. |
-
-## Open questions for the table
-
-- What is the band name?
-- What character art should each PC use?
-- What are the final PC sheets and exact skill levels?
-- What are the exact Infinity Suite target numbers from the chart?
-- What are the full ship stats for Proud Mary?
-- Who are Ritchie’s USD Ally and wider-society Enemy?
-- Who is The Todd’s ex-girlfriend, and how much did she know?
-- What actually happened in the boating-club embezzlement frame-up?
-
-## Rules pages to keep handy
-
-- [[../05 - Rules & Procedures/Traveller Quickstart - Session 001|Traveller Quickstart - Session 001]]
-- [[../05 - Rules & Procedures/Psionics Quick Reference|Psionics Quick Reference]]
-- [[../05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite Notes]]
+- Accept/refine the _Battleship Potemkin_ rescore gig?
+- Decide how each PC contributes to the rescore.
+- Get medical care for injured band/crew.
+- Refuel for Cr8,000, scoop later, and/or take cargo for money/fuel.
+- Follow Ezben's lead toward the Vandenzbrugge Rainbow.
+- Chase the Von Haalan's Guitar clue, or save it for later?
 
 ## Canon caution
 
-- Exact final sheets override these captured notes if there is conflict.
-- USD/psionics/Infinity Suite deeper connections are not confirmed beyond Ritchie’s USD membership and R3D’s psionics.
-- The political-war backdrop is known only in broad terms: dangerous people are pursuing a plan that could result in war and conquest.
-- Keep table jokes as quotes/table color unless Lefty confirms them as canon.
+- Exact final sheets override captured notes if there is conflict.
+- Venue names around Larry's / Factory Plaza / Vandenzbrugge Rainbow need cleanup in play.
+- “Rana” is the newest logged keyboardist name; earlier notes had “Reina.”

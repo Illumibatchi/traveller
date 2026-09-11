@@ -39,8 +39,8 @@ Ritchie joined the [[../03 - Places & Factions/Universal Siblinghood of Disunity
 - School of Hard Knocks: Streetwise 1, plus Melee and Stealth at 0; later Drive, Gambler, Gun Combat, and reduced SOC from political-movement event.
 - Entertainer: Art/Instrument, Carouse, Deception, Steward, Investigate, contacts, and other benefits/skill increases.
 - Music package: Art (Instrument) raised to 2; Streetwise raised further.
-- Connection with The Todd gave Recon.
-- Connection with R3D gave Profession (Roadie) 1.
+- Connection with [[02 - Characters/The Todd|The Todd]] gave Recon.
+- Connection with [[02 - Characters/R3D|R3D]] gave Profession (Roadie) 1.
 
 Initial FVTT stat block captured:
 
@@ -63,12 +63,12 @@ Initial FVTT stat block captured:
 
 ## Timeline
 
-- **Session 001** — Character created; identified as Eric’s PC; species set as Aslan. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Ritchie’s Aslan exile concept established: failed clan expectations, loved music, and adopted a larger-than-life stage persona. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Goes through School of Hard Knocks and joins the USD political/cult movement without becoming a leader. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Becomes an Entertainer/Performer guitarist; early works are well-received, but gambling and band trouble are part of his history. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Guitar connection established: The Todd stole and pawned Ritchie’s guitar, then helped recover it because it was sentimental. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Prior band connection with R3D established through Thunderfunk. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Character created; identified as Eric’s PC; species set as Aslan.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Ritchie’s Aslan exile concept established: failed clan expectations, loved music, and adopted a larger-than-life stage persona.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Goes through School of Hard Knocks and joins the USD political/cult movement without becoming a leader.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Becomes an Entertainer/Performer guitarist; early works are well-received, but gambling and band trouble are part of his history.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Guitar connection established: [[02 - Characters/The Todd|The Todd]] stole and pawned Ritchie’s guitar, then helped recover it because it was sentimental.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Prior band connection with [[02 - Characters/R3D|R3D]] established through Thunderfunk.
 
 ## Open questions
 
@@ -76,3 +76,11 @@ Initial FVTT stat block captured:
 - What exactly caused Ritchie’s Aslan exile?
 - What makes the guitar sentimental?
 - Who are Ritchie’s two contacts from entertainer benefits?
+
+## Session 002 notes
+
+- Ritchie wants the [[../05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite]] to be his magnum opus: his masterwork with guitar that goes down for the ages.
+- In [[../03 - Places & Factions/New Moscow|New Moscow]], Ritchie was down on his luck, stealing cars, gambling, and between bands. All he really had was his guitar.
+- The Todd was involved in stealing Ritchie's guitar and getting it back to him.
+- At the museum, Ritchie got inspiration from guitars and learned the clue about [[../06 - Ships & Gear/Von Haalans Guitar|Von Haalan's Guitar]].
+- At Larry's, Ritchie played guitar and fought in the brawl.

@@ -17,12 +17,12 @@ Attention-seeking vocalist. Rekasen was thought of as lead singer, was told to s
 ## Relationships
 
 - [[Izan Guukis]] — joins Rekasen’s rival band.
-- [[Reina]] — Reina hated the kicked-out members; exact history pending.
+- [[Rana]] — [[02 - Characters/Rana|Rana]] hated the kicked-out members; exact history pending.
 
 ## Timeline
 
-- **Session 001** — Established as an attention-seeking vocalist thought of as lead singer. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Told to scram and forms a rival band. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Established as an attention-seeking vocalist thought of as lead singer.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Told to scram and forms a rival band.
 
 ## Open questions
 

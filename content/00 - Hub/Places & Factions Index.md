@@ -8,7 +8,7 @@
 
 ## Factions / movements / polities
 
-- [[../03 - Places & Factions/Universal Siblinghood of Disunity|Universal Siblinghood of Disunity (USD)]] — decentralized political-philosophical movement; Ritchie Steel is connected.
+- [[../03 - Places & Factions/Universal Siblinghood of Disunity|Universal Siblinghood of Disunity (USD)]] — decentralized political-philosophical movement; [[02 - Characters/Ritchie Steel|Ritchie Steel]] is connected.
 - Third Imperium / Imperials — major interstellar power that contacted the region roughly 200 years ago; broad details pending.
 - Solomani — humans from Earth/Terra; broad Traveller history mentioned in Session 001.
 - Generation-ship descendants — local populations descended from English/German/French ESA generation ships.

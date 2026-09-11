@@ -16,16 +16,16 @@ Guitar player. Stable compared to [[Rekasen]], a little shy, and more likely to 
 
 ## Relationships
 
-- [[Rekasen]] — joins Rekasen’s rival band.
+- [[Rekasen]] — joins [[02 - Characters/Rekasen|Rekasen]]’s rival band.
 - Main band — former/adjacent connection pending.
 
 ## Timeline
 
-- **Session 001** — Established as a guitar player: quieter, shy, and stable compared to Rekasen. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
-- **Session 001** — Goes to the rival band. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Established as a guitar player: quieter, shy, and stable compared to Rekasen.
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Goes to the rival band.
 
 ## Open questions
 
 - Exact spelling; log looked like “ezangookis” / Izan Guukis.
-- Why did Izan follow Rekasen?
+- Why did Izan follow [[02 - Characters/Rekasen|Rekasen]]?
 - Does Izan regret joining the rival band?

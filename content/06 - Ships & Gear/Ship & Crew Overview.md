@@ -31,7 +31,7 @@ Known facts:
 - [[../02 - Characters/Jonni Siedel|Jonni Siedel]] — roadie.
 - [[../02 - Characters/Ezben Schmit|Ezben Schmit]] — manager/accounting.
 - [[../02 - Characters/Jose Barik|Jose Barik]] — drummer.
-- [[../02 - Characters/Reina|Reina]] — keyboardist.
+- [[../02 - Characters/Rana|Rana]] — keyboardist.
 - [[../02 - Characters/Kia Ju|Kia Ju]] — bassist.
 
 ## Open questions

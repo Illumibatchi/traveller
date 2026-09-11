@@ -20,7 +20,7 @@ Drummer. Called “the later Jose Barik” because he cannot be anywhere on time
 
 ## Timeline
 
-- **Session 001** — Established as drummer, chronically late, and kept with the band. *(Source: [[../01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]])*
+- **[[01 - Sessions/Session 001 - First Thursday Traveller Session|Session 001]]** — Established as drummer, chronically late, and kept with the band.
 
 ## Mechanics note
 

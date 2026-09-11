@@ -6,13 +6,13 @@ real_date: 2026-09-03
 game: Traveller
 session_type: setup / character creation
 characters:
-  - R3D
-  - Ritchie Steel
-  - The Todd
+  - [[02 - Characters/R3D|R3D]]
+  - [[02 - Characters/Ritchie Steel|Ritchie Steel]]
+  - [[02 - Characters/The Todd|The Todd]]
 places:
-  - Zuflucht
+  - [[03 - Places & Factions/Zuflucht|Zuflucht]]
 factions:
-  - Universal Siblinghood of Disunity
+  - [[03 - Places & Factions/Universal Siblinghood of Disunity|Universal Siblinghood of Disunity]]
 sources:
   - transcript-2026-09-03
   - fvtt-log-Thu-Sep-03-2026
@@ -32,17 +32,17 @@ The starting region is the Great Rift / New Islands area. These worlds were orig
 
 ## Characters created
 
-- [[../02 - Characters/R3D|R3D]] — Jessica/Lefty’s PC; front-person/singer; high-PSI psionic performer; English generation-ship background; former psionic-community member and ex-prisoner.
+- [[../02 - Characters/R3D|R3D]] — Jessica’s PC; front-person/singer; high-PSI psionic performer; English generation-ship background; former psionic-community member and ex-prisoner.
 - [[../02 - Characters/Ritchie Steel|Ritchie Steel]] — Eric’s PC; Aslan guitarist; cast-out Aslan who wants to make music; school-of-hard-knocks background; USD/political-movement connection.
 - [[../02 - Characters/The Todd|The Todd]] — Alex/Maz’s PC; theremin/electronics/agent background; former law-enforcement agent with a cybernetic data jack.
 
 ## Character links established
 
-- R3D and Ritchie know each other from a previous band, **Thunderfunk**.
-- The Todd stole Ritchie’s guitar, pawned it, then helped Ritchie recover it after learning it was sentimental.
-- The Todd arrested R3D after being paid by Callisto.
-- Callisto was originally R3D’s best friend/rival from the psionic community, framed R3D for embezzling boating-club funds, and later became an enemy.
-- The Todd’s girlfriend knew or discovered something about the payoff and moved in with Callisto; exact details remain partly uncertain.
+- [[02 - Characters/R3D|R3D]] and Ritchie know each other from a previous band, **Thunderfunk**.
+- [[02 - Characters/The Todd|The Todd]] stole Ritchie’s guitar, pawned it, then helped Ritchie recover it after learning it was sentimental.
+- [[02 - Characters/The Todd|The Todd]] arrested [[02 - Characters/R3D|R3D]] after being paid by Callisto.
+- [[02 - Characters/Callisto|Callisto]] was originally [[02 - Characters/R3D|R3D]]’s best friend/rival from the psionic community, framed [[02 - Characters/R3D|R3D]] for embezzling boating-club funds, and later became an enemy.
+- [[02 - Characters/The Todd|The Todd]]’s girlfriend knew or discovered something about the payoff and moved in with [[02 - Characters/Callisto|Callisto]]; exact details remain partly uncertain.
 
 ## Band and entourage decisions
 
@@ -50,9 +50,9 @@ The PCs kept several supporting band/crew members and rejected two potential mem
 
 ### Kept with the band / crew
 
-- [[../02 - Characters/Reina|Reina]] — keyboardist; nice/stable one; hated the kicked-out members.
+- [[../02 - Characters/Rana|Rana]] — keyboardist; nice/stable one; hated the kicked-out members.
 - [[../02 - Characters/Kia Ju|Kia Ju]] — bassist; history/songwriting; sedate and art-focused.
-- [[../02 - Characters/Jose Barik|Jose Barik]] — drummer; “late Jose Barik,” never on time.
+- [[../02 - Characters/Jose Barik|Jose Barik]] — drummer; “late [[02 - Characters/Jose Barik|Jose Barik]],” never on time.
 - [[../02 - Characters/Dimitry Muam|Dimitry Muam]] — pilot.
 - [[../02 - Characters/Arkhu Pyro Piette|Arkhu “Pyro” Piette]] — technician/engineer; jump drives, fusion reactors, pyrotechnics.
 - [[../02 - Characters/Jonni Siedel|Jonni Siedel]] — roadie; quiet, hardworking, joined six months ago, always present/on time.
@@ -134,5 +134,5 @@ Known difficulty/target notes:
 - Choose character art.
 - Confirm final character sheets and skill levels.
 - Confirm whether any table jokes/quotes are canon.
-- Confirm exact Infinity Suite target numbers from the chart/screenshot.
+- Confirm exact [[05 - Rules & Procedures/Infinity Suite Notes|Infinity Suite]] target numbers from the chart/screenshot.
 - Confirm ship sheet details for Proud Mary.

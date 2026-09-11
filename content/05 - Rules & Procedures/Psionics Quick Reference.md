@@ -84,8 +84,8 @@ Telepathy note: if chosen as the first talent, Telepathy is gained automatically
 
 ## R3D notes from Session 001
 
-- R3D has PSI 11 in initial character creation notes.
-- R3D made several PSI/talent-related rolls.
+- [[02 - Characters/R3D|R3D]] has PSI 11 in initial character creation notes.
+- [[02 - Characters/R3D|R3D]] made several PSI/talent-related rolls.
 - Table joke: “5km teleport is hard mode.”
 - Table joke: “I tend to teleport naked.”
 
